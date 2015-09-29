@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+.project
+.svn
+node_modules/
+build/
